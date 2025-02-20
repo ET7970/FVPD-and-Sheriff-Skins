@@ -1,4 +1,6 @@
-**NOTE
+# FVPD and Sheriff Skins for NFS PayBack
+
+NOTE
 
  This is made for Frosty Mod Manager 1.0.6.1 **
 
