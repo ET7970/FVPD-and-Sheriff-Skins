@@ -13,3 +13,7 @@ Feedback is always welcome!
 Version 1.0.1
 
 Fixed Texture Issues 
+
+
+![image](https://github.com/user-attachments/assets/1a3c699a-b43b-4477-a763-1c784ee95532)
+![imageSheriff](https://github.com/user-attachments/assets/abc9aadb-969d-48c1-9b89-4f5d038d5145)
